@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E1B2365B-81EE-F3ED-BEA8-61A5D6F24CF6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Manager.cs">
+    <Files>
+      <File FileName="Assets/Script/Manager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IfElse_incubus2PJ" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c4539bb-c73a-4bcd-b109-5656da3ca7d6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
