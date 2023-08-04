@@ -151,14 +151,14 @@ public class Manager : MonoBehaviour
 
                 indexCheck(Playerinput,Temp);
 
-                if (NowPlayercount == 0)
+                if (NowPlayercount != players.Length-1)
                 {
                     NowPlayercount++;
                    
                 }
                 else
                 {
-                    if (players[1].Gamecount>1)
+                    if (players[players.Length - 1].Gamecount > 1)
                     {
                         NowPlayercount--;
                     }
